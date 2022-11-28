@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://fortnitebattlepass123.github.io/uiux-development`
+If you used the stencil code, this is `https://fortnitebattlepass123.github.io/uiux-dev-final/`
 
 ### Goal and Value of the Application
 The goal of this application is to provide an interface for Stardew Valley
